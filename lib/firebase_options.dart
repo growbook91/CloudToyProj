@@ -34,40 +34,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCSh4VvApQ-F1Eu_m4_FqsD2NMPx6rTR6E',
-    appId: '1:841692023522:web:f674d2945be71ad7d0ecbb',
-    messagingSenderId: '841692023522',
-    projectId: 'hem-routine-app',
-    authDomain: 'hem-routine-app.firebaseapp.com',
-    storageBucket: 'hem-routine-app.appspot.com',
-    measurementId: 'G-CR17YMQNY7',
+    apiKey: 'AIzaSyCJgJUg9Rpd1cbzbb6AjYPGUoWyg-kCbM4',
+    appId: '1:438160748395:web:39ef12edad76b320ffe62e',
+    messagingSenderId: '438160748395',
+    projectId: 'hem-routine-app-dev',
+    authDomain: 'hem-routine-app-dev.firebaseapp.com',
+    storageBucket: 'hem-routine-app-dev.appspot.com',
+    measurementId: 'G-YCNT1FJPTT',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDBWxQGC8Q5TTDhlcO7sy1MlExIxXat0UA',
-    appId: '1:841692023522:android:cae4dda17c2adf8ad0ecbb',
-    messagingSenderId: '841692023522',
-    projectId: 'hem-routine-app',
-    storageBucket: 'hem-routine-app.appspot.com',
+    apiKey: 'AIzaSyDENMWOD6788FUMTfm2w0J2kqs1iaIeyX4',
+    appId: '1:438160748395:android:5139bc927cef6b81ffe62e',
+    messagingSenderId: '438160748395',
+    projectId: 'hem-routine-app-dev',
+    storageBucket: 'hem-routine-app-dev.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAZ1zgVlzvOIaauLSSPUpoTZDM9Y6yJQfQ',
-    appId: '1:841692023522:ios:1c5dfdf32d6b12eed0ecbb',
-    messagingSenderId: '841692023522',
-    projectId: 'hem-routine-app',
-    storageBucket: 'hem-routine-app.appspot.com',
-    iosClientId: '841692023522-vi5cbtarckl3h4k7sjcaj674afftmggh.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCnOvTlNd0b-7KG_QQ6qVShH_5DKAfmrxM',
+    appId: '1:438160748395:ios:de37f99a46739964ffe62e',
+    messagingSenderId: '438160748395',
+    projectId: 'hem-routine-app-dev',
+    storageBucket: 'hem-routine-app-dev.appspot.com',
+    iosClientId: '438160748395-cligtbqnt6tc3ltgpeolc0p8a44g9ggk.apps.googleusercontent.com',
     iosBundleId: 'com.example.cloudToyProj',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAZ1zgVlzvOIaauLSSPUpoTZDM9Y6yJQfQ',
-    appId: '1:841692023522:ios:1c5dfdf32d6b12eed0ecbb',
-    messagingSenderId: '841692023522',
-    projectId: 'hem-routine-app',
-    storageBucket: 'hem-routine-app.appspot.com',
-    iosClientId: '841692023522-vi5cbtarckl3h4k7sjcaj674afftmggh.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCnOvTlNd0b-7KG_QQ6qVShH_5DKAfmrxM',
+    appId: '1:438160748395:ios:de37f99a46739964ffe62e',
+    messagingSenderId: '438160748395',
+    projectId: 'hem-routine-app-dev',
+    storageBucket: 'hem-routine-app-dev.appspot.com',
+    iosClientId: '438160748395-cligtbqnt6tc3ltgpeolc0p8a44g9ggk.apps.googleusercontent.com',
     iosBundleId: 'com.example.cloudToyProj',
   );
 }
